@@ -92,7 +92,7 @@ function App() {
         <thead>
           <tr>
             <th>Number</th>
-            <th>Post Title</th>
+            <th>Title</th>
             <th>Score</th>
           </tr>
         </thead>
